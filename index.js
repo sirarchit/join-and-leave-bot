@@ -5,7 +5,7 @@ const app = express()
 app.use(express.json())
 
 const TOKEN = '8027392118:AAGRiFdQNxrwWewK6EWKWUOiAOqhPYDFxD4'
-const API_URL = `https://api.telegram.org/bot${TOKEN}`
+const API_URL = `https://api.telegram.org/bot${8027392118:AAGRiFdQNxrwWewK6EWKWUOiAOqhPYDFxD4}`
 
 const notifyJoin = true
 const notifyLeave = true
