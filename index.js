@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 const app = express()
 app.use(express.json())
 
-const TOKEN = 'BOT_TOKEN'
+const TOKEN = '8027392118:AAGRiFdQNxrwWewK6EWKWUOiAOqhPYDFxD4'
 const API_URL = `https://api.telegram.org/bot${TOKEN}`
 
 const notifyJoin = true
